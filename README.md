@@ -2,8 +2,8 @@
 Team Name: Group 32
 
 Team Members:
-Shanker Pillai (email: smp205@pitt.edu, personal notebook: SP_FPnotes.ipynb)
-Parsa Mirlohi (email: sem247@pitt.edu)
+1. Shanker Pillai (email: smp205@pitt.edu, personal notebook: SP_FPnotes.ipynb)
+2. Parsa Mirlohi (email: sem247@pitt.edu, personal notebook: Finalprojectcoviddeaths (2) (1).ipynb)
 
 Canvas Group 32
 
